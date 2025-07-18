@@ -727,6 +727,7 @@ body {
 /* Target Audience Section */
 .target-audience {
    background: #000;
+   margin-bottom: 20px;
 }
 
 .brand-name {
